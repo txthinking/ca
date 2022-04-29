@@ -2,7 +2,7 @@
 
 https://txthinking.github.io/ca/ca.pem
 
-### Install via [Nami](https://github.com/txthinking/nami)
+### Install via [nami](https://github.com/txthinking/nami)
 
 ```
 nami install mad ca.txthinking
